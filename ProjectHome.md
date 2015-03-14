@@ -1,0 +1,1 @@
+A wordpress theme makes your wordpress looks like Google.
